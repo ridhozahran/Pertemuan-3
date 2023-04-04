@@ -1,0 +1,8 @@
+D:\Pemrograman\Mobil\Mobil\obj\Debug\Mobil.csproj.AssemblyReference.cache
+D:\Pemrograman\Mobil\Mobil\obj\Debug\Mobil.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman\Mobil\Mobil\obj\Debug\Mobil.csproj.CoreCompileInputs.cache
+D:\Pemrograman\Mobil\Mobil\bin\Debug\Mobil.exe.config
+D:\Pemrograman\Mobil\Mobil\bin\Debug\Mobil.exe
+D:\Pemrograman\Mobil\Mobil\bin\Debug\Mobil.pdb
+D:\Pemrograman\Mobil\Mobil\obj\Debug\Mobil.exe
+D:\Pemrograman\Mobil\Mobil\obj\Debug\Mobil.pdb
